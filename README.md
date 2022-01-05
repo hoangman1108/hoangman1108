@@ -1,5 +1,5 @@
 ### Hi there, I’m Man 👋
-## I’m a Student and a Developer website!
+## I'm a Developer website!
 - 🔭 I’m currently working at SaveMoney company.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other.
