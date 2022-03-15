@@ -1,10 +1,10 @@
 ### Hi there, I’m Man 👋
 ## I'm a Developer website!
-- 🔭 I’m currently working at SaveMoney company.
+- 🔭 I'm currently working in a secret place 🤣.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other.
-- 🥅 2020 Goals: Study and contribute to Opensource projects.
-- ⚡ Fun fact: I love to travel, Hanging out with my friend on the weekend.
+- 🥅 2022 Goals: Study and contribute to Crypto Project.
+- ⚡ I love going to coffee with and my best friend from college. Chat with my drinking buddies about endless stories.
 
 ### Follow me if my github is helpful to you! Thanks.
 
