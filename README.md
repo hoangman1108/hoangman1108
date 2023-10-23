@@ -3,7 +3,8 @@
 - 🔭 I'm currently working in a secret place 🤣.
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other.
-- 🥅 2022 Goals: Study and contribute to Crypto Project.
+- 🥅 2022 Goals: Study and contribute to Crypto Project. DONE
+- 🥅 2023 Goals: Middle frontend and working on crypto project. DONE 
 - ⚡ I love going to coffee with and my best friend from college. Chat with my drinking buddies about endless stories.
 
 ### Follow me if my github is helpful to you! Thanks.
